@@ -21,9 +21,6 @@ Technologies Used
 Installation
 	1.	Clone the repository:
 
-git clone https://github.com/yourusername/qr-code-generator.git
-cd qr-code-generator
-
 
 	2.	Install dependencies:
 
